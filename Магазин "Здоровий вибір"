@@ -1,0 +1,126 @@
+<html>
+<title>Магазин продуктів</title>
+<body style="font-family:Sans-serif;background-color:yellow">
+<header style="background-color:white">
+    <h1 style="font-size:50px;color:purple; text-align:center">Магазин продуктів<br/>
+    <h2 style="color:purple; text-align:center">"Здоровий Вибір"</h2>
+        <img src="https://pictures.pibig.info/uploads/posts/2023-04/1681263763_pictures-pibig-info-p-produkti-risunok-vkontakte-3.jpg" 
+        height="250"/>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt5d-B7qSx378O-gDs0uzr8fyi_MIOKoLP8Q&s">
+                                <img src="                https://png.klev.club/uploads/posts/2024-04/thumbs/png-klev-club-4zfs-p-produkti-png-6.png" width="187">
+
+     </h1>
+</header>
+<main>
+    <p>Хочете смачно і корисно перекусити? Тоді чого ви чекаєте, поки їжа спортиться? Скоріше біжіть в магазин "Здоровий Вибір" і вибирайте продукти!</p>
+<table style="border:2px solid purple">
+    <tr style="border:2px solid purple">
+        <td style="color:purple">
+            Назва
+        </td>
+                <td style="color:purple">
+            Наявність
+        </td>
+                <td style="color:purple">
+           Ціна
+        </td>
+                <td style="color:purple">
+            Знижка
+        </td>
+                <td style="color:purple">
+            Ціна зі знижкою
+        </td>
+    </tr>
+    <tr>
+            <td style="color:purple">
+            Картопля
+        </td>
+                <td style="color:purple">
+            23кг
+        </td>
+                <td style="color:purple">
+           8грн/кг
+        </td>
+                <td style="color:purple">
+            20%
+        </td>
+                <td style="color:purple">
+            6грн/кг
+        </td>
+    </tr>
+            <tr>
+            <td style="color:purple">
+           Огірки
+        </td>
+                <td style="color:purple">
+            17кг
+        </td>
+                <td style="color:purple">
+           50грн/кг
+        </td>
+                <td style="color:purple">
+            0%
+        </td>
+                <td style="color:purple">
+            50грн/кг
+        </td>
+    </tr>
+           <tr>
+            <td style="color:purple">
+           Томати
+        </td>
+                <td style="color:purple">
+            34кг
+        </td>
+                <td style="color:purple">
+           36грн/кг
+        </td>
+                <td style="color:purple">
+            10%
+        </td>
+                <td style="color:purple">
+            33.40грн/кг
+        </td>
+           </tr>
+                   <tr>
+            <td style="color:purple">
+           Кавун
+        </td>
+                <td style="color:purple">
+            12
+        </td>
+                <td style="color:purple">
+           27грн/кг
+        </td>
+                <td style="color:purple">
+            0%
+        </td>
+                <td style="color:purple">
+            27грн/кг
+        </td>
+        </tr>
+                   <tr>
+            <td style="color:purple">
+           Яблука
+        </td>
+                <td style="color:purple">
+            96кг
+        </td>
+                <td style="color:purple">
+           14грн/кг
+        </td>
+                <td style="color:purple">
+            5%
+        </td>
+                <td style="color:purple">
+            13грн/кг
+        </td>
+    </tr>
+</table>
+</main>
+<footer style="background-color:black">
+<p style="color:white">Адреса вул.Харчова 7</p>
+<p style="color:white">По запитанням дзвонити по номеру 9873254637</p>
+</footer>
+</body>
+</html>
